@@ -1,0 +1,8 @@
+2024/06/10 16:32:00,0557 [main] com.jarvis.keywords.Keyword 
+ INFO  Opening Firefox Browser
+2024/06/10 16:32:33,0816 [main] com.jarvis.keywords.Keyword 
+ INFO  Luanching Url
+2024/06/10 16:32:43,0290 [main] com.jarvis.pages.HomePage 
+ INFO  Entered product:[Ljava.lang.CharSequence;@21362712 to search
+2024/06/10 16:32:47,0230 [main] com.jarvis.pages.HomePage 
+ INFO  Clicked On Search Magnifier
